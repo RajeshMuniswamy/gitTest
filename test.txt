@@ -1,1 +1,1 @@
-test
+After completing these steps, check your repository on GitHub. It should reflect an empty repository with just the initial commit.
